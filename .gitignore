@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Python cache
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Project-specific
+/.vscode/
+/__pycache__/
+/.pytest_cache/
+/*.sqlite
+
+# aiogram specific
+/.idea/
+/.vscode/
+/.pyright/
+/*.pyre/
+/__pypackages__/
+
+### Mac OS ###
+.DS_Store

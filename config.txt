@@ -1,0 +1,2 @@
+TOKEN = '[вставь свой токен]'
+ADMIN_ID = [вставь свой telegram id]
