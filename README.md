@@ -1,13 +1,13 @@
 # TelegramBotTemplate
 Telegram bot structure template 
 ## How to install 
-- If you don't have a virtual environment, use `python -m venv venv`
-- use `pip install -r requirements.txt`
+- If you don't have a virtual environment, use `python3 -m venv venv`
+- use `pip3 install -r requirements.txt`
 - or use:
 ```
-pip install aiogram
-pip install environs
-pip freeze > requirements.txt
+pip3 install aiogram
+pip3 install environs
+pip3 freeze > requirements.txt
 ```
 
 ## How to use
