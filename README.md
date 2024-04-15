@@ -11,4 +11,4 @@ pip3 freeze > requirements.txt
 ```
 
 ## How to use
-Enter your token and admin id in the ![config.txt](https://github.com/yudls/TelegramBotTemplate/blob/main/config.txt) file, then run main.py. Then the bot will start working and send you messages about starting and stopping the bot.
+Enter your token and admin id in the [config.txt](https://github.com/yudls/TelegramBotTemplate/blob/main/config.txt) file, then run main.py. Then the bot will start working and send you messages about starting and stopping the bot.
